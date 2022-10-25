@@ -1,2 +1,2 @@
 # cv
-made an only html website as apart of my udemy course
+made an only html website as a part of an udemy course
