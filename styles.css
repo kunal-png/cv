@@ -1,0 +1,22 @@
+body{
+    background-color: #f1faee;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1,h2,h3{
+
+    color: #1d3557;
+}
+
+hr{
+ border-style: none;
+ border-top-style: dotted;
+ border-color: #457b9d;
+ border-width: 5px;
+ width: 10%;
+
+}
+img{
+    border-radius: 20px;
+}
